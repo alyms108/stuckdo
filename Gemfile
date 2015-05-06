@@ -45,6 +45,7 @@ group :development, :test do
   # Install twitter bootstrap for rails
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
+  # Install font awesome gem
   gem 'font-awesome-rails'
 end
 
