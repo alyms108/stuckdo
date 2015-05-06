@@ -47,5 +47,8 @@ group :development, :test do
 
   # Install font awesome gem
   gem 'font-awesome-rails'
+  
+  # Make forms easier
+  gem 'simple_form'
 end
 
