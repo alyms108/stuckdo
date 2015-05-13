@@ -50,5 +50,8 @@ group :development, :test do
   
   # Make forms easier
   gem 'simple_form'
+	
+	# Devise authentification
+	gem 'devise'
 end
 
