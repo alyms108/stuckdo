@@ -53,5 +53,8 @@ group :development, :test do
 	
 	# Devise authentification
 	gem 'devise'
+
+  # Convert url to actual content
+  gem 'auto_html'
 end
 
